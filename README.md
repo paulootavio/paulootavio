@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 -->
 
 
-<title>Programing sometimes hits like playing dark souls, so rest here!!</title>
-![image](https://github.com/paulootavio/paulootavio/assets/4235190/21ea4dab-8565-4977-b92b-13c614443ceb)
+# Programing sometimes hits like playing dark souls, so rest here!!
+#![image](https://github.com/paulootavio/paulootavio/assets/4235190/21ea4dab-8565-4977-b92b-13c614443ceb)
